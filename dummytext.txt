@@ -1,3 +1,5 @@
 this is the first line of text.
 
 this is the second line of text added on commit 2.
+
+third line is added on commit 3.
